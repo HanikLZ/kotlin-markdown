@@ -6,14 +6,14 @@ Features
 ---
 - Easy to extend
   - Easy to add, remove or replace line block parser.
-
+ 
   - Standards-compliant.
 
   - Render implemented by Compose html.
 
 - Pure Kotlin
   - Multiple platform library.
-
+   
 Installation
 ---
 ---
@@ -25,7 +25,7 @@ Built-in supported
 ---
 ---
 - Headings
-  - > `#` before text or line
+  - > `#` before text or line 
     > ```
     > # Level1
     > 
@@ -65,7 +65,7 @@ Built-in supported
   > <url>
   > ```
   > Automatic URL Linking
-  >
+  > 
   > https://github.com
 - Image
   > ```
@@ -117,7 +117,7 @@ Built-in supported
   > ```
 - Code
   - > Indent every line of the block by at least four spaces or one tab
-  - > Three tildes (```) on the lines before and after the code block
+  - > Three tildes (```) on the lines before and after the code block 
 - Quotes
   > ```
   > Use > in front of a paragraph, and 
@@ -135,7 +135,7 @@ Built-in supported
 - Line break
   > End a line with two or more spaces, and then type return create `<br>`.
 - Paragraphs
-  > Use a blank line to separate one or more lines of text create paragraphs.
+  > Use a blank line to separate one or more lines of text create paragraphs. 
 - Horizontal Rules
   > ```
   > ***
@@ -143,28 +143,28 @@ Built-in supported
   > _________________
   > ```
 - Emphasis
-  - > `**Bold**`
-    > **Bold**
-  >
-  - > `*Italic*`
-    > *Italic*
-  >
-  - > `***BoldItalic***`
-    > ***BoldItalic***
-  >
-  - > `~~Strikethrough~~`
-    > ~~Strikethrough~~
-  >
-  - > `==Highlight==`
-    > ==Highlight==
-  >
-  - > `^Superscript^`
-    > ^Superscript^
-  >
-  - > `~Subscript~`
-    > ~Subscript~
-  >
-  - > ```
+    - > `**Bold**` 
+      > **Bold**
+      > 
+    - > `*Italic*`
+      > *Italic*
+      >
+    - > `***BoldItalic***` 
+      > ***BoldItalic***
+      > 
+    - > `~~Strikethrough~~` 
+      > ~~Strikethrough~~
+      > 
+    - > `==Highlight==` 
+      > ==Highlight==
+      > 
+    - > `^Superscript^` 
+      > ^Superscript^
+      > 
+    - > `~Subscript~` 
+      > ~Subscript~
+      > 
+    - > ```
       > `Code` 
       > ```
 
